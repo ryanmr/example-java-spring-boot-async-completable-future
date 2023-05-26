@@ -1,4 +1,4 @@
-# `@Async` and `CompleableFuture`
+# `@Async` and `CompletableFuture`
 
 Node is really great at this kind of async/non-blocking kind of programming model. Java and Spring have increasingly better support but the materials out in the wild are not quite there yet.
 
